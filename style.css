@@ -73,6 +73,14 @@
 } 
 
 
+   
+.bird{
+    background-image: url(https://c.tenor.com/OwP0Pmwbcr4AAAAj/birds-flying.gif);
 
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 125px;
+    
 
-
+}
